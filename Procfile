@@ -1,1 +1,1 @@
-worker: python3 sequence.py
+worker: python3 filter.py
